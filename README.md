@@ -1,12 +1,12 @@
 SPSGP-67038-Virtual-Internship---Android-Application-Development-Using-Kotlin
-==================================
+=============================================================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge
 
-Name: [Mohan Kumar](https://github.com/UvrajGitHub)
+Name: | Mohan Kumar | GitHub - https://github.com/UvrajGitHub
 ------------
 
-All Android Projects Module Wise
-------------
+All Units Apps Projects 
+=======================
 
 <details>
     <summary><b>Unit 1: Kotlin Basics</b></summary>
