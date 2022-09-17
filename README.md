@@ -6,7 +6,7 @@ Name: Mohan Kumar | GitHub - https://github.com/UvrajGitHub
 -----------------------------------------------------------
 Major Project/Main Projects
 ===========================
-Grocery-App : 
+ <summary><b>Grocery App : https://github.com/smartinternz02/SPSGP-67038-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App</b></summary>
 SearchNearbyBusiness : 
 
 All Units Apps Projects 
